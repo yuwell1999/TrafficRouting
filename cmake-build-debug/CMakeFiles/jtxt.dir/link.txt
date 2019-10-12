@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/jtxt.dir/City.cpp.o CMakeFiles/jtxt.dir/main.cpp.o  -o jtxt.exe -Wl,--out-implib,libjtxt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

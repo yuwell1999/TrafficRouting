@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/YuYue/Desktop/jtcx/City.cpp
+G_City.h
+/cygdrive/c/Users/YuYue/Desktop/jtcx/G_City.h
+
+/cygdrive/c/Users/YuYue/Desktop/jtcx/G_City.h
+iostream
+-
+string
+-
+process.h
+-
+stdlib.h
+-
+
